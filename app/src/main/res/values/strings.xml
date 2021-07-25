@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Keep My Note</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_details">Note Details</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="_2019_8_01">2019/8/01</string>
+    <string name="_9_55">9:55</string>
+    <string name="noteetitle">NoteeTitle</string>
+    <!--    <string name="todo">TODO</string>-->
+<!--    <string name="todo">TODO</string>-->
+</resources>
